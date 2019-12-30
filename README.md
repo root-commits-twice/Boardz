@@ -25,19 +25,19 @@ Then open the Boardz file.
 
 ## Client
 
-### If the program has "A" in front of it skip setup.
+If the program has "A" in front of it skip setup.
 
-1 - You'll see a menu. You'll need to login to do most stuff.
-2 - If you don't have an account choose sign up.
-3 - When you've signed up login.
-4 - Now you're logged in and you can use the program fully.
+* 1 - You'll see a menu. You'll need to login to do most stuff.	
+* 2 - If you don't have an account choose sign up.	
+* 3 - When you've signed up login.	
+* 4 - Now you're logged in and you can use the program fully.	
 
-### If the program doesn't have "A" in front of it.
+If the program doesn't have "A" in front of it.
 
-5 - Run setup
-6 - View available servers
-7 - Choose the one you want to use
-8 - See above and start from 1
+* 5 - Run setup	
+* 6 - View available servers	
+* 7 - Choose the one you want to use	
+* 8 - See above and start from 1	
 
 
 
