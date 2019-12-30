@@ -43,7 +43,7 @@ Then open the Boardz file.
 * 6 - When you've signed up login.	
 * 7 - Now you're logged in and you can use the program fully.	
 
-## Server
+## Server (w.i.p)
 
 * 1 - Download and configure mySQL
 * 2 - Create an user where anyone can connect. Set the username to user and the password to pass.
