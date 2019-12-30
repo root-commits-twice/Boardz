@@ -48,6 +48,7 @@ Then open the Boardz file.
 * 1 - Download and configure mySQL
 * 2 - Create an user where anyone can connect. Set the username to user and the password to pass.
 * 3 - Add your server and IP to the database (Using Boardz)
+* 4 - Read the 'tables' text document.
 
 ## Releases
 https://github.com/root-commits-twice/Boardz/releases
