@@ -30,6 +30,6 @@ First row: username
 Second row: indox  
 Table name: Admins
   
-* 3 - Messages
+* 3 - Messages  
 First row:
 
