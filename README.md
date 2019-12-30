@@ -11,6 +11,7 @@
 ## General info
 This project is a simple chat program. It can be hosted on any mySQL server.
 
+
 ## Versions
 Versions:
 * A - Client
