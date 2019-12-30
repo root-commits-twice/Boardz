@@ -3,11 +3,20 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Versions](#versions)
 * [Setup](#setup)
 * [How to use](#how-to-use)
 
 ## General info
 This project is a simple chat program. It can be hosted on any mySQL server.
+
+## Versions
+Versions:
+* A - Client
+* B - Server
+* C - Dev
+
+
 	
 ## Technologies
 Project is created with:
@@ -25,21 +34,13 @@ Then open the Boardz file.
 
 ## Client
 
-If the program has "A" in front of it skip setup.
-
-* 1 - You'll see a menu. You'll need to login to do most stuff.	
-* 2 - If you don't have an account choose sign up.	
-* 3 - When you've signed up login.	
-* 4 - Now you're logged in and you can use the program fully.	
-
-If the program doesn't have "A" in front of it.
-
-* 5 - Run setup	
-* 6 - View available servers	
-* 7 - Choose the one you want to use	
-* 8 - See above and start from 1	
-
-
+* 1 - Run setup	
+* 2 - View available servers	
+* 3 - Choose the one you want to use	
+* 4 - You'll see a menu. You'll need to login to do most stuff.	
+* 5 - If you don't have an account choose sign up.	
+* 6 - When you've signed up login.	
+* 7 - Now you're logged in and you can use the program fully.	
 
 ## Server
 
