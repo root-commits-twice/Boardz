@@ -6,6 +6,7 @@
 * [Versions](#versions)
 * [Setup](#setup)
 * [How to use](#how-to-use)
+* [Releases](#releases)
 
 ## General info
 This project is a simple chat program. It can be hosted on any mySQL server.
@@ -47,3 +48,6 @@ Then open the Boardz file.
 * 1 - Download and configure mySQL
 * 2 - Create an user where anyone can connect. Set the username to user and the password to pass.
 * 3 - Add your server and IP to the database (Using Boardz)
+
+## Releases
+https://github.com/root-commits-twice/Boardz/releases
