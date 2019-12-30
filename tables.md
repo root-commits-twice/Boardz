@@ -20,12 +20,12 @@ Here's how to create/add a table
 
 Here are the tables you need to add. To your server
 
-* 1 - Logins
+* 1 - Logins  
 First row: username  
 Second row: password  
 Table name: Logins
 
-* 2 - Admins
+* 2 - Admins  
 First row: username  
 Second row: indox  
 Table name: Admins
