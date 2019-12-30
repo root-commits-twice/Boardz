@@ -43,4 +43,6 @@ If the program doesn't have "A" in front of it.
 
 ## Server
 
-- - - 
+* 1 - Download and configure mySQL
+* 2 - Create an user where anyone can connect. Set the username to user and the password to pass.
+* 3 - Add your server and IP to the database (Using Boardz)
