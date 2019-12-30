@@ -21,14 +21,14 @@ Here's how to create/add a table
 Here are the tables you need to add. To your server
 
 * 1 - Logins
-First row: username__
-Second row: password__
+First row: username  
+Second row: password  
 Table name: Logins
 
 * 2 - Admins
-First row: username__
-Second row: indox__
-Table name: Admins__
+First row: username  
+Second row: indox  
+Table name: Admins
   
 * 3 - Messages
 First row:
