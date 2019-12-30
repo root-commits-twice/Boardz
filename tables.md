@@ -28,7 +28,7 @@ Table name: Logins
 * 2 - Admins
 First row: username__
 Second row: indox__
-Table name: Admins
+Table name: Admins__
   
 * 3 - Messages
 First row:
