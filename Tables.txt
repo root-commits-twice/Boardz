@@ -1,0 +1,4 @@
+## Tables
+
+This document lists all the tables that Boardz uses.
+You'll have to create these.
